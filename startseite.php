@@ -1,0 +1,4 @@
+<?php
+sesision_start();
+
+?>
