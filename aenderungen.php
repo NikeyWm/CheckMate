@@ -7,4 +7,5 @@ echo("Deine Oma");
 echo("Deine Opa");
 echo("Deine Schwiegertochter");
 echo("Deine Schwiegervater");
+echo("Deine Schwiegermutter");
 ?>
